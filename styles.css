@@ -1,0 +1,24 @@
+body {
+  margin-top: 2rem;
+  padding: 0;
+}
+
+.mystyle {
+  color: red;
+}
+
+label {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.div-border {
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 5px;
+  border-color: rgb(61, 126, 154);
+  padding: 20px;
+  overflow: auto;
+}
